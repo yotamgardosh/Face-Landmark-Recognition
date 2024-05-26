@@ -34,4 +34,4 @@ This project is aimed at developing a deep learning model for facial landmark de
 Yotam Gardosh
 
 ## License
-This project is licensed under the MIT License - see the [MIT License](./LICENSE)LICENSE file for details.
+This project is licensed under the MIT License - see the [MIT LICENSE](https://choosealicense.com/licenses/mit/) file for details.
