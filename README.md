@@ -1,7 +1,7 @@
 # Facial Landmark Detection Project
 This project is aimed at developing a deep learning model for facial landmark detection using the iBUG 300W Large Face Landmark dataset. The model is based on a modified ResNet-18 architecture and is trained to predict the coordinates of 68 facial landmarks.
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*a6kXOpZQ4abIk0EfIkKOpw.jpeg" width= "400" height= "400">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*a6kXOpZQ4abIk0EfIkKOpw.jpeg" width= "400" height= "300">
 
 
 
