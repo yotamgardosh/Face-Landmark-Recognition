@@ -23,15 +23,15 @@ This project is aimed at developing a deep learning model for facial landmark de
 5. Evaluation: Visualize the model's predictions on the validation dataset using the show_examples function.
 
 ## Requirements
-Python 3.x
-PyTorch
-torchvision
-Matplotlib
-NumPy
-OpenCV
+* Python 3.x 
+* PyTorch
+* torchvision
+* Matplotlib
+* NumPy
+* OpenCV
 
 ## Contributors
 Yotam Gardosh
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [MIT License](./LICENSE)LICENSE file for details.
